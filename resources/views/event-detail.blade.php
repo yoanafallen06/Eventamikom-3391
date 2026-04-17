@@ -1,6 +1,7 @@
-@extends('layout.app')
+@extends('layouts.app')
+
 @section('content')
-        <main class="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 lg:grid-cols-3 gap-12">
+<main class="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 lg:grid-cols-3 gap-12">
         <!-- Left: Poster -->
         <div class="lg:col-span-1">
             <div class="sticky top-32">
@@ -120,3 +121,4 @@
         </div>
     </main>
 @endsection
+    

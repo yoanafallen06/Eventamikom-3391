@@ -43,7 +43,7 @@
         </div> -->
     </nav>
 
-  @yield('content')
+@yield('content')
 
     <!-- Footer -->
     <footer class="bg-indigo-900 text-indigo-100 py-20 px-6 mt-20">
