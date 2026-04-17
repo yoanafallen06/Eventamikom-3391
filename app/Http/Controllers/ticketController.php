@@ -4,10 +4,10 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class ticketController extends Controller
+class TicketController extends Controller
 {
-    public function ticket()
+    public function show()
     {
-        return view('ticket');
+        return view ('ticket');
     }
 }

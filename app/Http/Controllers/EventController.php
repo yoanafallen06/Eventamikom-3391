@@ -4,15 +4,15 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class EventsController extends Controller
+class EventController extends Controller
 {
     public function show()
     {
-        return view('event-detail');
+        return view ('event-detail');
     }
 
     public function checkout()
     {
-        return view('checkout');
+        return view ('checkout');
     }
 }
