@@ -17,8 +17,7 @@
                 <p class="mt-2 text-slate-600">Platform sentral untuk mencari, melihat, dan mendaftar berbagai event yang diselenggarakan di kampus Amikom.</p>
             </div>
             <div class="p-4 bg-blue-50/50 rounded-xl border border-blue-100 hover:bg-blue-50 transition">
-                <h3 class="font-bold text-blue-800 text-lg">Bagaimana cara mendaftar event?</h3>
-                <p class="mt-2 text-slate-600">Pilih menu "Katalog", klik "Lihat Detail" pada event yang Anda minati, lalu klik tombol "Daftar Event".</p>
+                 <p class="mt-2 text-slate-600">Pilih menu "Katalog", klik "Lihat Detail" pada event yang Anda minati, lalu klik tombol "Daftar Event".</p>
             </div>
         </div>
 
@@ -32,4 +31,4 @@
     </div>
 
 </body>
-</html>
+</html>                        
